@@ -1,7 +1,7 @@
 ---
 applications:
 - disk_quota: 1024M
-  name: marbles-blockchain-khk
+  name: marbles-blockchain-hkkim
   command: "node app.js"
   path: "."
   instances: 1
